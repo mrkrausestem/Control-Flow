@@ -1,7 +1,7 @@
 /*:
  ## Exercise - Logical Operators
 
- For each of the logical expressions below, print out what you think the resulting value will be (`true` or `false`). Then print out the actual expression to see if you were right. An example has been provided below.
+ For each of the logical expressions below, print out what you think the resulting value will be (`true` or `false`). Then print out the actual expression to see if you were right. An example has been provided below. (1.5 points)
  
     43 == 53
     print(false)
@@ -52,4 +52,4 @@
  */
 
 
-//: page 1 of 9  |  [Next: Exercise - If and If-Else Statements](@next)
+//: page 1 of 9  |  [Next](@next)

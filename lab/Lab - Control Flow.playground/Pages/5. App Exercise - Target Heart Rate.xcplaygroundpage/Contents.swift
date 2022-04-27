@@ -1,15 +1,22 @@
 /*:
- ## App Exercise - Target Heart Rate
+ ## App Exercise
  
- >These exercises reinforce Swift concepts in the context of a fitness tracking app.
+ You decide that you want your math tutor app to have a feature that monitors a students average so that you can notify them if they fall out of the passing range.
  
- You decide that you want your fitness tracker to have a feature that helps users stay inside specified heart rate zones while they are working out. You'll display a message to the user telling them to go a little faster to increase their heart rate if they are below the target, tell them that they are spot on if they are in the target, and tell them to slow it down a little if they are over the target.
+ Create constants `isAverage`, `isBelowAverage` and `isAboveAverage` and  that equal expressions that evaluate to whether or not `currentAverage` is between the lower and upper bounds, below the lower bound, and above the upper bound, respectively. Then write an if-else-if statement that will print "You're right on track!" if the user is above average, "You're doing great, but try to push it a bit!" if the user is in the target zone, and "You need to study more often" if the user is below the target zone. (1 point)
  
- Create constants `isInTarget`, `isBelowTarget`, and `isAboveTarget` that equal expressions that evaluate to whether or not `currentHR` is between the lower and upper bounds, below the lower bound, and above the upper bound, respectively. Then write an if-else-if statement that will print "You're right on track!" if the user is inside the target zone, "You're doing great, but try to push it a bit!" if the user is below the target zone, and "You're on fire! Slow it down just a bit." if the user is above the target zone.
+ > Test your code with all 3 of the currentAverage values below. Make sure only 1 is uncommented at a time!
  */
-let targetLowerBound = 120
-let targetUpperBound = 150
-let currentHR = 147
+let targetLowerBound = 70
+let targetUpperBound = 90
+
+let currentAverage = 67
+//let currentAverage = 85
+//let currentAverage = 95
+
+//insert your code here
+
+//print the results from each current average here.
 
 
-//: [Previous](@previous)  |  page 5 of 9  |  [Next: Exercise - Switch Statements](@next)
+//: [Previous](@previous)  |  page 5 of 9  |  [Next](@next)
