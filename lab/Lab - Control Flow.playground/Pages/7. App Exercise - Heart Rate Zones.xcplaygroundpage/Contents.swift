@@ -9,7 +9,7 @@
  - 80 - 89:  "B"
  - 70 - 79:  "C"
  - 60 - 69:  "D"
- -    < 69:  "F"
+ -    < 60:  "F"
  
  Try several currentAverage values to make sure your code works. (1 point)
  
